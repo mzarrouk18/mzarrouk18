@@ -13,7 +13,7 @@
 - Ingénieur généraliste récemment diplômé, polyvalent et prêt à relever des défis techniques et innovants.
 - Expérience dans le secteur public en analyse et visualisation des données.
 - Expérience internationale à Eindhoven.
-- Disponibilité immédiate pour une alternance de 12 moiss.
+- Disponibilité immédiate pour une alternance de 12 mois.
 
 ---
 
