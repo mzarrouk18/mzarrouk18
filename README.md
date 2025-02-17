@@ -13,7 +13,7 @@
 - Ingénieur généraliste récemment diplômé, polyvalent et prêt à relever des défis techniques et innovants.
 - Expérience dans le secteur public en analyse et visualisation des données.
 - Expérience internationale à Eindhoven.
-- Disponibilité immédiate pour un stage de 6 mois.
+- Disponibilité immédiate pour un contrat d'apprentissage de 24 mois.
 
 ---
 
