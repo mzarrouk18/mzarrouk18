@@ -22,7 +22,7 @@
 - **Data manipulation and visualisation** : Pandas, Seaborn
 - **Machine Learning and IA** : Scikit-Learn, Pytorch, TensorFlow
 - **Computer vision**
-- **Data management** : SQL, NoSQL
+- **Data management** : SQL, NoSQL, Hbase, Hadoop
 - **Burautical tools** : Pack Office (Excel, Teams)
 - **Operating systems** : Windows, Linux
 
@@ -36,6 +36,14 @@
 ---
 
 ## Professionnal experiences
+
+### **Data Engineer** - Personal project *(09.2025 - 10.2024)*
+
+**Project :** Designed and implemented a complete end-to-end data pipeline for large-scale collection, storage, analysis, and visualization of COVID-19 data.
+- **Dataset** : Global COVID-19 data including confirmed cases, recoveries, and deaths from public repositories.
+- **Objective** :  Analyze the evolution of the pandemic across countries and continents, and expose the results through a RESTful API.
+- **Methodology** : Data storage in HBase; migration to MongoDB for aggregation and analysis; visualizations using Matplotlib and Seaborn; development of a FastAPI backend to serve results.
+- **Results** : Built a complete data system — pipeline → storage → analysis → visualization → API — enabling efficient analysis of millions of COVID-19 records.
 
 ### **Data Scientist** - Inria Lyon *(03.2024 - 08.2024)*
 
