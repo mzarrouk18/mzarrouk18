@@ -1,6 +1,6 @@
 # Moez Zarrouk
 
-**Data Scientist**
+**Data Scientist / Data Engineer**
 
 📧 zarroukmoez18@gmail.com  | 📱 +33 6 29 88 64 71   
 [LinkedIn](https://www.linkedin.com/in/moez-zarrouk-773459231/)  
@@ -37,7 +37,17 @@
 
 ## Professionnal experiences
 
-### **Data Engineer** - Personal project *(09.2025 - 10.2024)*
+### **Data Engineer** - Personal project *(12.2025 - 01.2026)*
+
+**Project :** Engineered to handle and process thousands of data records efficiently.
+- **Dataset** : Managed a generated dataset of over 15,000 entries, including books, users, and loan transactions.
+- **Technology** : Apache Cassandra (NoSQL), Docker Compose, Python (Tkinter).
+- **Objective** : Optimize data storage and ensure instantaneous search performance through a highly scalable architecture.
+- **Methodology** : Implemented "Query-First Design" principles, data denormalization, and multi-node cluster deployment using Docker.
+- **Results** : Delivered a fully operational system featuring a graphical user interface (GUI), real-time loan tracking, and global analytics using Cassandra counter types.
+
+
+### **Data Engineer** - Personal project *(09.2025 - 10.2025)*
 
 **Project :** Designed and implemented a complete end-to-end data pipeline for large-scale collection, storage, analysis, and visualization of COVID-19 data.
 - **Dataset** : Global COVID-19 data including confirmed cases, recoveries, and deaths from public repositories.
