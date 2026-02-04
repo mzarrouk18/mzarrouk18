@@ -66,7 +66,7 @@
 ### **Data Analyst** - VTEC Lasers & Sensors, Eindhoven *(06.2023 - 08.2023)*
 
 **Project :** Analysis of data from air pollution sensors.  
-- **Daset** : Data from sensors located in the town of Eijsden, in the south of the Netherlands.
+- **Dataset** : Data from sensors located in the town of Eijsden, in the south of the Netherlands.
 - **Objective** : Identifier les origines de la pollution.
 - **Methodology** : Data visualisation and identification of pollution patterns.
 - **Results** :  80% of pollution during the week is linked to combustion, while 70% at weekends comes from wood heating.
