@@ -1,41 +1,49 @@
 # Moez Zarrouk
 
-**Data Scientist / Data Engineer**
+**Data Engineer**
 
 📧 zarroukmoez18@gmail.com  | 📱 +33 6 29 88 64 71   
-[LinkedIn](https://www.linkedin.com/in/moez-zarrouk-773459231/)  
-**English level B2** (*TOEIC 830*)
+[LinkedIn](https://www.linkedin.com/in/moez-zarrouk-773459231/) | [GitHub](https://github.com/mzarrouk18)  
+**English level C1** (*Advanced*)
 
 ---
 
 ## Profile
-- A recently graduated generalist engineer, versatile and eager to take on technical and innovative challenges.
-- 15 months of experience in data analysis and visualization within the public sector.
-- Advanced proficiency in Python.
-- International experience that has strengthened my adaptability.
+- Data Engineer graduated from Télécom Physique Strasbourg, currently completing a Master's in Data Engineering at École PMN.
+- Designed end-to-end data architectures, from real-time systems at SaveIT to ML models with sensor data at Inria.
+- Autonomous, rigorous, and comfortable in multicultural environments — international experience in Eindhoven, Netherlands.
+- A natural teacher, able to simplify complex topics and adapt quickly to any technical stack.
 
 ---
 
 ## Hard skills
 
-- **Programming languages** : Python, R, Matlab, Scripting Shell
-- **Data manipulation and visualisation** : Pandas, Seaborn
-- **Machine Learning and IA** : Scikit-Learn, Pytorch, TensorFlow
-- **Computer vision**
-- **Data management** : SQL, NoSQL, Hbase, Hadoop
-- **Burautical tools** : Pack Office (Excel, Teams)
-- **Operating systems** : Windows, Linux
+- **Programming languages** : Python, JavaScript, R, Java, Scala, Shell
+- **Backend & API** : Node.js, Express.js, FastAPI, REST API
+- **Big Data & Cloud** : Hadoop, PySpark, Azure, AWS, Render.com
+- **Databases** : SQL, MongoDB Atlas, Cassandra, HBase, Docker
+- **Data manipulation and visualisation** : Power BI, Pandas, Matplotlib, Seaborn, Kibana
+- **Machine Learning and AI** : Scikit-Learn, PyTorch, TensorFlow, Computer Vision
+- **Tools** : Git, GitHub, Postman, Docker, Linux
 
 ---
 
 ## Certifications
 
-- **Feature Engineering** - Kaggle  
-- **Machine Learning** - Kaggle  
+- **Apache Spark — Data Engineering & Distributed Processing** - SaveIT *(Apr. 2026)*
+- **Feature Engineering** - Kaggle *(Jan. 2025)*
+- **Data Visualization** - Kaggle *(Nov. 2024)*
 
 ---
 
-## Professionnal experiences
+## Professional experiences
+
+### **Data Engineer — Final Internship** - SaveIT, Paris *(04.2026 - 09.2026)*
+
+**Project :** Designed a real-time synchronised database for the SaveIT e-learning platform.
+- **Technologies** : JavaScript (Node.js, Wix Velo), Express.js, MongoDB Atlas, REST API, Render.com, Postman, Git.
+- **Methodology** : Real-time 3-tier architecture (Wix → Node.js/Express → MongoDB Atlas). Modelled 8 NoSQL collections with a mastery score based on quiz/attempt ratio. Migrated 196 members.
+- **Results** : Fully automated pipeline, real-time KPIs, elimination of the manual Google Sheets process.
 
 ### **Data Engineer** - Personal project *(12.2025 - 01.2026)*
 
@@ -55,54 +63,52 @@
 - **Methodology** : Data storage in HBase; migration to MongoDB for aggregation and analysis; visualizations using Matplotlib and Seaborn; development of a FastAPI backend to serve results.
 - **Results** : Built a complete data system — pipeline → storage → analysis → visualization → API — enabling efficient analysis of millions of COVID-19 records.
 
-### **Data Scientist** - Inria Lyon *(03.2024 - 08.2024)*
+### **Data Scientist — Internship** - Inria Lyon *(03.2024 - 08.2024)*
 
 **Project :** Evaluation of the performance of low-cost air pollution sensors.
-- **Dataset** : Data from sensors located in the Auvergne-Rhône-Alpes region.
+- **Dataset** : Data from sensors located in the Auvergne-Rhône-Alpes region (provider: ATMO Aura).
 - **Objective** :  Data visualization of air pollution sensors and analysis of their performance.
 - **Methodology** : Development of machine learning models to adjust the sensors based on environmental variables. Performance analysis and in-depth evaluation of sensor accuracy.
-- **Results** : Non-linear models (Gradboost) perform better with an R² of 0.93
+- **Results** : Non-linear models (GradBoost) perform better with an R² of 0.93
 
-### **Data Analyst** - VTEC Lasers & Sensors, Eindhoven *(06.2023 - 08.2023)*
+### **Data Analyst — International Internship** - VTEC Lasers & Sensors, Eijsden, Netherlands *(06.2023 - 08.2023)*
 
 **Project :** Analysis of data from air pollution sensors.  
 - **Dataset** : Data from sensors located in the town of Eijsden, in the south of the Netherlands.
-- **Objective** : Identifier les origines de la pollution.
+- **Objective** : Identify the sources of air pollution.
 - **Methodology** : Data visualisation and identification of pollution patterns.
 - **Results** :  80% of pollution during the week is linked to combustion, while 70% at weekends comes from wood heating.
-
-### **Generalist Engineer** - Eurométropole de Strasbourg *(09.2022 - 05.2023)*
-
-**Project :** Estimating the energy consumption of a sports facility.
-- **Objective** : Estimation of the theoretical energy consumption of a gymnasium and application of this estimate to three gymnasiums in Strasbourg.
-- **Methodology** : Modelling the energy requirements of sports facilities, taking into account the relevant variables (size of gymnasium, number of users, etc.).
-- **Results** : Relative deviation from actual invoices is around 75%
-
-### **Factory Worker** - La Poste, Strasbourg *(07.2022 - 08.2022)*
-
-- Immersion in the mail sorting industry : Discover how mail sorting works and the associated industrial processes.
 
 ---
 
 ## Formations
 
-### **Master Degree Data Engineering** *(In process)*
-**École PMN, Paris** *(10.2024 - 10.2026)*
+### **Master's in Data Engineering** *(In progress)*
+**École PMN, Paris** *(2024 - 2026)*
 
-### **Master Degree Engineering, Robotic, Informatic, Life Science** *(Achieved)*
-**Option : Images and Data, Télécom Physique Strasbourg** *(09.2022 - 09.2024)*
+### **Master's in Images and Data** *(Achieved)*
+**Télécom Physique Strasbourg** *(2022 - 2024)*
 
 ### **General Engineering Diploma** *(Achieved)*
-**Option : Images, Signals and Data Science, Télécom Physique Strasbourg** *(09.2021 - 09.2024)*
+**Option : Images, Signals and Data Science, Télécom Physique Strasbourg** *(2021 - 2024)*
 
-### **Preparation for entrance examinations to engineering schools** *(Achieved)*
-**ESPRIT, Tunis** *(09.2021 - 09.2024)*
+### **Preparatory School** *(Achieved)*
+**Esprit Prepa — Mathematics and Physics, Tunis** *(2019 - 2021)*
 
 ---
 
-## Additionnal informations
+## Languages
 
-- Teaching support for Mathematics.
-- Multi-skilled salesperson in a Greek cuisine delicatessen store.
-- Running: 10 km: 1h36.
+- **English** : C1 — Advanced
+- **Arabic** : Native
+- **French** : Fluent
+- **Spanish** : Beginner
+
+---
+
+## Additional informations
+
+- **Educational Tutor** (Student job) — Maths tutoring, Complétude, Strasbourg/Lyon/Paris.
+- **Sales Associate** (Student job) — Mavrommatis, Paris.
+
 
